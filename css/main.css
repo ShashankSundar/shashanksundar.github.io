@@ -69,7 +69,7 @@ a:after {
 
 /* Header Wrap */
 .header {
-  /*background: #1CBCAD;*/
+  background: #1CBCAD;
   background: url(../images/boston-night.jpg) no-repeat center top;
   padding-top:140px;
   text-align:center;
